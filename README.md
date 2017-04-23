@@ -2,7 +2,7 @@
 Mock server responses using retrofit 2.
 
 # The summary:
-This project to show case how to mock server responses with retrofit2 and RxAndroid.
+This project is to showcase how to mock server responses with retrofit2 and RxAndroid.
 The SkyRewards application contains a simple screen which asks the user to enter their accountId and lets the user to press the get rewards button to query the available rearwards for the given account.
 
 As i have mocked the server responses, the expected scenarios are:

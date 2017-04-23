@@ -6,10 +6,10 @@ This project to show case how to mock server responses with retrofit2 and RxAndr
 The SkyRewards application contains a simple screen which asks the user to enter their accountId and lets the user to press the get rewards button to query the available rearwards for the given account.
 
 As i have mocked the server responses, the expected scenarios are:
-For given accountId 123 the user will get the full list of rewards
-For given accountId 111 the user will be shown the ineligible message
-For given accountId 222 the user will be shown the invalid account message
-For any other accountIds the server error message will be shown
+- For given accountId 123 the user will get the full list of rewards
+- For given accountId 111 the user will be shown the ineligible message
+- For given accountId 222 the user will be shown the invalid account message
+- For any other accountIds the server error message will be shown
 
 # The Architecture:
 The project follows the Cleaner Architecture which lets me to apply SOLID principle as well as to write clean code.
